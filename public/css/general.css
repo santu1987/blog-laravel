@@ -1,0 +1,42 @@
+body{
+	background-color: rgba(151, 150, 152, 0.05);
+}
+
+#imagen_curso{
+	width:100px;
+}
+
+.paddin0{
+	padding:0;
+}
+
+.right{
+	float:right;
+}
+
+.left{
+	float:left;
+}
+
+.datos_creador{
+	text-align: center;
+	width:100%;
+}
+
+.img_principal{
+	width: 250px;
+    height: 200px;
+}
+.cuerpo_header{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+}
+
+.pie{
+	text-align: center;
+}
+.tags_labels{
+	margin-right: 5px;
+}	
